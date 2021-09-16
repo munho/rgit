@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # @desc     Recursive git. This is simple python script 
 # to execute git pull/push and fetch recursively
